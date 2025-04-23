@@ -25,3 +25,10 @@ python3 folder_sync.py source_folder replica_folder 10 sync.log
 ```bash
 python3 folder_sync.py source_folder replica_folder 5 sync.log
 ```
+
+output:veeam-qa-task2024-ruslan-nasibov alzaighamm$ python3 folder_sync.py source_folder replica_folder 5 sync.log
+2025-04-24 03:22:42,593 - Starting synchronization...
+2025-04-24 03:22:42,593 - Synchronization completed.
+
+<img width="1095" alt="Screenshot 2025-04-24 at 03 23 08" src="https://github.com/user-attachments/assets/e77288f8-91df-4f23-b6d5-5e50b072389e" />
+
