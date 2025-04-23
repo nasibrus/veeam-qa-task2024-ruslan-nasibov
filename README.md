@@ -12,7 +12,7 @@ This script synchronizes two folders (source and replica). The replica folder is
 ## Usage
 
 ```bash
-python folder_sync.py source_folder replica_folder 10 sync.log
+python3 folder_sync.py source_folder replica_folder 10 sync.log
 ```
 
 - `source_folder`: path to the source folder
@@ -23,5 +23,5 @@ python folder_sync.py source_folder replica_folder 10 sync.log
 ## Example
 
 ```bash
-python folder_sync.py source_folder replica_folder 5 sync.log
+python3 folder_sync.py source_folder replica_folder 5 sync.log
 ```
